@@ -1,0 +1,1 @@
+curl -X GET -o IOTManager-release.apk -u daniel.chang:nuwa8888 "http://192.168.1.232:8081/nexus/service/local/artifact/maven/redirect?r=releases&g=com.nuwarobotics.IOTManager&a=IOTManager-release&v=LATEST&e=apk"
